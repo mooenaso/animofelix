@@ -1,0 +1,7 @@
+requests
+coinbase-advancedtrade-python
+cryptocompare
+pandas
+pandas_ta
+openai
+python-dotenv
